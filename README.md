@@ -9,4 +9,4 @@ Using Spring Boot and a database technology of your choice, create a new RESTful
 
 Customer---- Many to Many--Account
 
-## Hit http://localhost:8080/swagger-ui.htm  and test the end points
+## Hit http://localhost:8080/swagger-ui.html and test the end points
